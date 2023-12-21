@@ -1,21 +1,66 @@
 *{
+    box-sizing: border-box;
+    margin-left: 0px;
+    padding: 0px;
+    color:black;
+    font-family: 'Itim' cursive;
+    padding-left: 20px;
     
-        box-sizing: border-box;
-        margin: 0px;
-        padding: 0px;
-        color: white;
-        font-family: 'Itim', cursive;
     
-        }
-        
-
-#table{
-    width: 400px;
-    height: 300px;
 }
 form{
-background-color: #0E2F2F; 
-width: 100px;
-height: 100px;
+    background-color:aquamarine;
+    width: 550px;
+    height: 400px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 60px;
+    margin-top: 30px;
+    border-radius: 40px;
+    font-size: 30px;
+}
+h2{
+    margin-top: 20px;
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    font-size: 40px;
+    font-style: italic;
+}
+#main{
+    margin: 10px;
+    padding: 10px;
+    font-style: italic;
+    color: black;
+    
+}
+#btn {
+    margin: 10px;
+    background-color: rgb(247, 82, 110);
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-style: italic;
+}
+#btn:hover,#res:hover{
+    background-color:blue ;
+}
+ #res{
+    margin: 10px;
+    background-color:rgb(247, 82,110);
+    width: 80px;
+    height: 40px;
+    border-radius:10px ;
+   font-size: 10px;
+ }
 
+#clt{
+    margin: 20px;
+    font-style: italic;
+}
+
+    
+
+#tw,#li,#fa,#ins{
+    margin: 0px;
 }
