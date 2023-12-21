@@ -1,0 +1,21 @@
+*{
+    
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        color: white;
+        font-family: 'Itim', cursive;
+    
+        }
+        
+
+#table{
+    width: 400px;
+    height: 300px;
+}
+form{
+background-color: #0E2F2F; 
+width: 100px;
+height: 100px;
+
+}
